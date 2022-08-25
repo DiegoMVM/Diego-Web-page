@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<body>
+<div>   <a href='/index.html'>home</a> <a href='/My-values.html'>My values</a> <a href='/contacto.html'>contact me</a>
+<br>
+<h1> Mis logros, aprendizajes y formacion </h1>
+</div>
+<br>
+<div>
+Lenguajes de programacion
+<ul>
+<li>Pyhton </li>
+<li>MatLab</li>
+<li> html y CSS </li>
+<li>JavaScript </li>
+</ul>  
+</div>
+<div>
+Mi formacion
+<ul>
+<li>Ingeniero Mecanico-Electrico por la UNIVERSIDAD DE PIURA (UDEP) </li>
+<li>Capacitado en diferentes habilidades blandas y de gestion</li>
+<li>Habilidades que me permiten resolver problemas <br>
+gracias a mis conocimientos en distintas areas de las ciencias naturales </li>
+<li>Dominio de alta cantidad de programas como:
+<ul>
+<li>MatLab </li>
+<li>Proteus</li>
+<li> SolveElec</li>
+<li>Arduino</li>
+<li>Engineering Ecuation Solver</li>
+<li>MySQL</li>
+</ul>
+</li>
+</ul>  
+</div>
+</body>
+</html>
